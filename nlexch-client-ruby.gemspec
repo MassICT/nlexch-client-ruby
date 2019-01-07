@@ -5,7 +5,7 @@ require "nlexch_api/client/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "nlexch_client"
-  s.version     = NLexchAPI::Client::VERSION
+  s.version     = "0.1.0"
   s.authors     = ["Amarian12"]
   s.email       = ["info@nlexch.com"]
   s.homepage    = "https://github.com/MassICTBV/nlexch-client-ruby"
